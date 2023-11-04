@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553635095406",
+    "project_id": "dressmeup-77879",
+    "storage_bucket": "dressmeup-77879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553635095406:android:9fb4c881c64c6a3d4ed77f",
+        "android_client_info": {
+          "package_name": "com.example.dress_me_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKS94JzGmHps8W3l2N6U7wNGRd9PPwI44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
